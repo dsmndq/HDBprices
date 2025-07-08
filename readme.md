@@ -41,7 +41,7 @@ The `eda_hdb_prices.py` script performs a thorough EDA to understand the dataset
 
 ### 2. Data Preprocessing & Feature Engineering
 
-The `load_and_preprocess_data` function in the training script (`train_hdb_model_lightbgm.py``) performs the following crucial steps:
+The `load_and_preprocess_data` function in the training script (`train_hdb_model_lightbgm.py`) performs the following crucial steps:
 - **Duplicate Removal**: Removes any duplicate rows to ensure data quality.
 - **Feature Creation**:
   - `remaining_lease_years`: Converts the lease string (e.g., '90 years 5 months') into a single numerical value.
