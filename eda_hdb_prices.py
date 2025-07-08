@@ -168,7 +168,6 @@ def perform_eda(file_path):
 
 
 if __name__ == '__main__':
-    # IMPORTANT: Replace this with the actual path to your CSV file.
-    csv_file_path = r'c:\Users\lifel\Downloads\HDBprices\ResaleflatpricesbasedonregistrationdatefromJan2017onwards.csv'
+    csv_file_path = r'c:HDBprices\ResaleflatpricesbasedonregistrationdatefromJan2017onwards.csv'
     perform_eda(csv_file_path)
 
