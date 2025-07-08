@@ -126,8 +126,7 @@ def train_and_evaluate_model(df):
 
 
 if __name__ == '__main__':
-    # IMPORTANT: Ensure this path is correct.
-    csv_file_path = r'c:\Users\lifel\Downloads\HDBprices\ResaleflatpricesbasedonregistrationdatefromJan2017onwards.csv'
+    csv_file_path = r'\HDBprices\ResaleflatpricesbasedonregistrationdatefromJan2017onwards.csv'
     
     processed_df = load_and_preprocess_data(csv_file_path)
     
