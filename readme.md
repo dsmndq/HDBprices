@@ -2,6 +2,8 @@
 
 This project aims to predict the resale prices of HDB flats in Singapore using machine learning. It includes scripts for Exploratory Data Analysis (EDA) and for training a predictive model using LightGBM.
 
+Read about the [details and findings here](https://medium.com/@desmond_57481/decoding-the-hdb-property-market-using-machine-learning-to-explain-and-estimate-hdb-resale-prices-7d43b9d5d6e2)
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Dataset](#dataset)
