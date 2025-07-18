@@ -91,7 +91,7 @@ The scatter plot of actual vs. predicted prices shows a tight clustering of poin
 HDBprices/
 ├── ResaleflatpricesbasedonregistrationdatefromJan2017onwards.csv
 ├── eda_hdb_prices.py
-├── train_hdb_model_lightbgm.py
+├── train_hdb_model_lightgbm.py
 └── README.md
 ```
 
